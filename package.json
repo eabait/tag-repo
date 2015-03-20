@@ -1,0 +1,23 @@
+{
+  "name": "tag-repo",
+  "version": "0.0.1",
+  "description": "Experiments with Machine Learning to help developers get useful knowledge from their GitHub data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "clustering",
+    "machine",
+    "learning",
+    "kdd",
+    "tagging"
+  ],
+  "author": "Esteban S. Abait",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.53.0",
+    "lda": "~0.1.3"
+  }
+}
